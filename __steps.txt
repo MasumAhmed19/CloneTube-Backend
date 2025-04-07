@@ -1,0 +1,11 @@
+Step-1: Connect DB
+step-2: Connect express
+
+Professional way:
+src/db/index.js
+    --> connect DB
+
+ src/index.js
+    --> DB connect with .env
+
+
